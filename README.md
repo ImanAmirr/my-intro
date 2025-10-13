@@ -30,11 +30,10 @@ Here are some of the skills and tools I’m familiar with:
 
 Here are a few of my projects:
 
-1. [**Project 1**](https://github.com/YourUsername/Project1) – Short description of what it does.  
-2. [**Project 2**](https://github.com/YourUsername/Project2) – Short description here.  
-3. [**Project 3**](https://github.com/YourUsername/Project3) – Another short description.
-
-> “Check out more of my projects on my [GitHub profile](https://github.com/YourUsername).”
+1. [**Project 1**](https://github.com/BSDSF24A009IMANAMIR/website.git) – A website on mental health.  
+2. [**Project 2**](https://github.com/BSDSF24A009IMANAMIR/my-first-repo.git) – My first Github assignment.  
+3. [**Project 3**](https://github.com/BSDSF24A009IMANAMIR/BSDSF24A009IMANAMIR.git) – A precise introduction of myself.
+> “Check out more of my projects on my [GitHub profile](https://github.com/BSDSF24A009IMANAMIR).”
 
 ---
 
