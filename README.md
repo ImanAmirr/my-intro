@@ -36,6 +36,17 @@ Here are a few of my projects:
 > “Check out more of my projects on my [GitHub profile](https://github.com/BSDSF24A009IMANAMIR).”
 
 ---
+## 🧰 TOOLS & TECHNOLOGIES
+
+| Category | Skills |
+|-----------|---------|
+| 💻 Programming Languages | Python, JavaScript, C++ |
+| 🌐 Web Development | HTML, CSS, |
+| 🧠 Data Science | Pandas|
+| 🗄️ Databases | MySQL |
+| ⚙️ Tools | Git, GitHub, VS Code |
+| 🎨 Design | Canva, Figma |
+
 
 ## 📬 CONTACT ME
 
