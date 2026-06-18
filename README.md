@@ -20,7 +20,7 @@ Here are some of the skills and tools I’m familiar with:
 
 - 💻 Python, C and C++  
 - 🌐 HTML, CSS, JavaScript  
-- 🗄️ SQL  
+- 🗄️ SQL,MONGODB,fastAPI
 - 🧠 Data Science (Pandas, NumPy)  
 - ⚙️ Git & GitHub  
 
